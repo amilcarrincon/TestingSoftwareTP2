@@ -1,2 +1,14 @@
-# TestingSoftwareTP2
-Trabajo presentado en clase Testing de Software Embebido para desarrollar un controlador de led utilizando la técnica de TDD.
+# TRABAJO PRÁCTICO 2 - TDD
+Completar el trabajo presentado en clase para desarrollar un controlador de led utilizando la técnica de TDD.
+Se deben completar las siguientes pruebas:
+- Después de la inicialización todos los LEDs deben quedar apagados.
+- Se puede prender un LED individual.
+- Se puede apagar un LED individual.
+- Se pueden prender y apagar múltiples LED’s.
+- Se pueden prender todos los LEDs de una vez.
+- Se pueden apagar todos los LEDs de una vez.
+- Se puede consultar el estado de un LED.
+
+Se debe mantener bajo control de versión el código generado. 
+
+Entregar: Repositorio con el archivo con las pruebas unitarias y el código de producción bajo prueba (preferentemente en bitbucket o github).
